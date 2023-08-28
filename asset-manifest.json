@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CloudNotebook/static/css/main.7bb508da.css",
+    "main.js": "/CloudNotebook/static/js/main.497a84a6.js",
+    "static/js/787.b2633ee5.chunk.js": "/CloudNotebook/static/js/787.b2633ee5.chunk.js",
+    "static/media/plus.png": "/CloudNotebook/static/media/plus.e9799d5c99d2723ec5eb.png",
+    "static/media/logo.png": "/CloudNotebook/static/media/logo.f56c07e3da58ff1427df.png",
+    "index.html": "/CloudNotebook/index.html",
+    "main.7bb508da.css.map": "/CloudNotebook/static/css/main.7bb508da.css.map",
+    "main.497a84a6.js.map": "/CloudNotebook/static/js/main.497a84a6.js.map",
+    "787.b2633ee5.chunk.js.map": "/CloudNotebook/static/js/787.b2633ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb508da.css",
+    "static/js/main.497a84a6.js"
+  ]
+}
